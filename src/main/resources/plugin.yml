@@ -1,0 +1,8 @@
+name: RelicMemory
+version: 1.0
+main: remagdbr.org.mine.relicMemory.RelicMemory
+api-version: 1.20
+commands:
+  setmemory:
+    description: Define o local da memória
+    usage: /setmemory <nome_da_memoria>
