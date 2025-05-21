@@ -20,5 +20,3 @@ Ideal para criar momentos memoráveis em aventuras, missões ou arcos pessoais d
 
 🧪 Versão
 Este plugin está em fase de desenvolvimento e pode apresentar bugs ou comportamentos instáveis. Ele foi desenvolvido como um experimento pessoal para explorar efeitos sonoros customizados usando resource packs em conjunto com plugins no Minecraft. O foco principal é o aprendizado e a experimentação com recursos imersivos.
-
-Se quiser posso criar uma estrutura completa de README com instalação, dependências e exemplo de uso. É só pedir!
